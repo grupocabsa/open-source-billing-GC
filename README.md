@@ -184,6 +184,10 @@ Loading default values in database
 
     rails db:seed
 
+#### 3.13 precompile assets (production environment)
+
+    rails assets:precompile
+
 ### Step-4. Run
 #### 4.1 Background Services
 You need to start delayed_job for email delivery and other background tasks required for properly functionality of OSB by using following command

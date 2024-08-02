@@ -119,6 +119,10 @@ gem 'activesupport', '~> 6.0.2.2'
 gem 'activemodel', '~> 6.0.2.2'
 gem 'activerecord', '~> 6.0.2.2'
 gem "webpacker"
+
+#gem 'webpacker', '~>3.0'
+#gem 'psych', '< 4'
+
 gem 'hammerjs-rails'
 gem 'faraday', '1.0.1'
 gem 'rack-cors', '~> 1.1', '>= 1.1.1'
